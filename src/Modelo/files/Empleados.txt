@@ -1,0 +1,2 @@
+Luz Marina,72133245,admin,admin,admin
+Juan Rodriguez,12345,vendedor,vendedor,vendedor

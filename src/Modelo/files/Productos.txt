@@ -1,0 +1,7 @@
+12345,borradores,200.0,321
+325,Lapiz,700.0,34
+3344,Marcador borrable,1499.9,12
+111,Cartuchera,123123.125,1231231
+2323423,abcd,12332.0,32
+1233,controles,1234.0,13
+44444,Lapicero,1500.0,50
